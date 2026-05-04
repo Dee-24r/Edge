@@ -3,7 +3,7 @@
 Please note that the firmware files are in a different repo: 
 https://github.com/Dee-24r/zmk-config-edge
 
-These are the files that I used to make them!
+Here are pictures of my design files
 ![SCHEMATIC](images/schematic.png)
 
 ![PCB](images/pcb.png)
