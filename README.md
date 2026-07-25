@@ -3,6 +3,9 @@
 Please note that the firmware files are in a different repo: 
 https://github.com/Dee-24r/zmk-config-edge
 
+![PCB](images/physical.jpeg)
+**Physical pcb arrived 3 days ago, assembly coming soon!**
+
 Here are pictures of my design files
 ![SCHEMATIC](images/schematic.png)
 
