@@ -5,7 +5,7 @@ https://github.com/Dee-24r/zmk-config-edge
 
 ![PCB](images/physical.jpeg)
 <br>
-**Physical pcb arrived 3 days ago, assembly coming soon!**
+**Physical pcb arrived 3 days ago, I'l assemble soon!**
 
 Here are pictures of my design files
 ![SCHEMATIC](images/schematic.png)
