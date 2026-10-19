@@ -15,3 +15,7 @@ Here are pictures of my design files
 ![3D view pcb front](images/pcb3d_front.png)
 
 ![2D view PCB back](images/pcb3d_back.png)
+
+![alt text](images/assembled.jpeg)
+
+![alt text](<images/Back assembly.jpeg>)
