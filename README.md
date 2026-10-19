@@ -1,4 +1,4 @@
-## This is EDGE, my Split Keyboard
+## This is EDGE, my Split Keyboard! 30 keys (can you beat that?) and three layers to cover almost all keyboard inputs! There's the normal, number, and bluetooth layers!
 
 Please note that the firmware files are in a different repo: 
 https://github.com/Dee-24r/zmk-config-edge
