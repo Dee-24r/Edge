@@ -16,7 +16,10 @@ Here are pictures of my design files
 
 ![2D view PCB back](images/pcb3d_back.png)
 
-#build!
+# build!
+
 ![alt text](images/assembled.jpeg)
 
 ![alt text](<images/Back assembly.jpeg>)
+
+https://github.com/Dee-24r/Edge/blob/main/images/malfunctioning_keeb.mp4
