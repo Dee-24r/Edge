@@ -46,3 +46,15 @@ I'm still kinda working on it, but for the most part, I think I'm good.
 I thought of resizing my keeb by putting my micro at the back of the keys, but it woundn't go! So, I stuck with that!
 
 Now done w the CAD, and we done. Spanned like a month over this project, but spent like 30 sumn hours in total!! Can't wait to routee!
+
+---- continuation ----
+
+After routing my pcb, I got it fabricated and ordered the instruments! At first I bought the right switches but wrong sockets and they wouldn't go into my PCB :(, and so I had to reorder. I still thought it was wrong after, cuz i meant to put it on the front of the pcb, not the back! so i just had to make my front my back and vice versa!! I soldered all my switches and sockets (cuz i was so excited that it actually worked!) and then i realised i hadn't done the diodes! they weren't much of a pain but would have been easier if i had done those first!
+
+I soldered my batteries and resistors, and the hardware is done! BUT, I thik i put my boot and reset pads without a space because of the footprints I used. it was actually an altered version! (i'm not even sure if there were supposed to be pads, but there's also a reset button on the front)
+
+I kept trying w just the reset button, and the drive would come up but it wasn't flashing the code for some reason!
+
+Later got it to work, but just like my macropad, the keys were kinda bugging. Again, works, but in a weird way! I do plan on making changes next month.
+
+<video controls src="images/malfunctioning_keeb.mp4" title="Title"></video>
