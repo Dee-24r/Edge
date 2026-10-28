@@ -55,6 +55,8 @@ I soldered my batteries and resistors, and the hardware is done! BUT, I thik i p
 
 I kept trying w just the reset button, and the drive would come up but it wasn't flashing the code for some reason!
 
-Later got it to work, but just like my macropad, the keys were kinda bugging. Again, works, but in a weird way! I do plan on making changes next month.
+Later got it to work, but just like my macropad, the keys were kinda bugging. They have a mind of their own, and type whatever they want to type when I don't want them to type.
 
-<video controls src="images/malfunctioning_keeb.mp4" title="Title"></video>
+In other words, it's like an endless loop! I'm still thinking it's with the hardware just like the macro, because I double checked the code again w many ai sources, and the code does seem right to me. Again, works, but in a weird way! I do plan on making changes soon!
+
+[https://github.com/Dee-24r/Edge/blob/main/images/malfunctioning_keeb.mp4](https://github.com/user-attachments/assets/b93cf569-b797-47ab-8092-d4cc0c10ea89)
