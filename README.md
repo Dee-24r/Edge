@@ -22,4 +22,4 @@ Here are pictures of my design files
 
 ![alt text](<images/Back assembly.jpeg>)
 
-https://github.com/Dee-24r/Edge/blob/main/images/malfunctioning_keeb.mp4
+[https://github.com/Dee-24r/Edge/blob/main/images/malfunctioning_keeb.mp4](https://github.com/user-attachments/assets/b93cf569-b797-47ab-8092-d4cc0c10ea89)
